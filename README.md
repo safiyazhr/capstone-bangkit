@@ -1,4 +1,4 @@
-# capstone-bangkit
+# monisick-project
 Nama kelompok 
 -- 
 1. A528B4KX0163 - Afrianti Fadillah (MD)
